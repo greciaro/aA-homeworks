@@ -1,0 +1,6 @@
+Prep Routes
+https://github.com/appacademy/bluebird/wiki/frontend-routes
+https://github.com/appacademy/bluebird/wiki/backend-routes
+
+Google Maps API key
+https://developers.google.com/maps/documentation/javascript/get-api-key
